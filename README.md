@@ -1,2 +1,2 @@
-# minecrift_config
-Minecraft configuration
+# MinecriftConfig
+Minecraft server setup scripts, devops scripts and some frequently used commands
