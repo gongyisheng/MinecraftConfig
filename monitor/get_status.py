@@ -1,7 +1,8 @@
 import requests
 import time
 
-address = ""
+from config import address
+
 url = f"https://api.mcsrvstat.us/2/{address}"
 while True:
     resp = requests.get(url).json()
